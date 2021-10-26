@@ -3,7 +3,9 @@
 ## What idea(s) do you have for your final project?
 
 Choose Your Own Adventure story
+
 DND-style gamebook
+
 RPGMaker or ren.py game (w/ self-made music)
 
 
